@@ -29,7 +29,7 @@ Sem cobranças, sem taxas, sem discriminação.
 ## 🌍 Página Online
 
 Você pode acessar meu site pelo GitHub Pages aqui:  
-👉 [Clique aqui para abrir](https://SEUUSUARIO.github.io/SEUREPOSITORIO/)
+👉 [Clique aqui para abrir](https://yannickandre.github.io/Moz_Triple_way/)
 
 ---
 
