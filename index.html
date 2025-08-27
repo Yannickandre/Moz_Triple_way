@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M0Z Triple Way 😜</title>
+
+  <!-- 🔹 Font Awesome para os ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    /* Reset e estilo geral */
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      margin: 0;
+      padding: 0;
+      scroll-behavior: smooth; /* Rolagem suave */
+    }
+
+    /* Menu fixo */
+    nav {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background: #2c3e50;
+      padding: 15px 0;
+      text-align: center;
+      z-index: 1000;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    nav a:hover {
+      color: #f1c40f;
+    }
+
+    /* Espaço pro conteúdo não ficar escondido atrás do menu */
+    .spacer {
+      height: 70px;
+    }
+
+    /* Seções */
+    section {
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    section h2 {
+      font-size: 2em;
+      color: #2c3e50;
+    }
+
+    section p {
+      font-size: 1.1em;
+      color: #555;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    /* Botões */
+    .btn {
+      display: inline-block;
+      margin: 15px;
+      padding: 15px 25px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .btn-red { background: #e74c3c; color: white; }
+    .btn-green { background: #2ecc71; color: white; }
+    .btn-blue { background: #3498db; color: white; }
+    .btn-yellow { background: #f1c40f; color: black; }
+
+    .btn:hover {
+      transform: scale(1.05);
+      opacity: 0.9;
+    }
+
+    /* Ícones dentro dos botões */
+    .btn i {
+      margin-right: 8px;
+    }
+
+    /* Rodapé */
+    footer {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* 🔹 Hero (Home) */
+    #home {
+      position: relative;
+      background: url('InShot_20250825_214045836.jpg') no-repeat center center/cover;
+      height: 100vh; /* ocupa toda a tela */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+      padding: 20px;
+    }
+
+    #home::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.5); /* escurece a imagem */
+      z-index: 1;
+    }
+
+    #home .hero-content {
+      position: relative;
+      z-index: 2; /* fica acima do overlay */
+      max-width: 700px;
+    }
+
+    #home .hero-content h2 {
+      font-size: 2.5rem;
+      margin-bottom: 15px;
+      color: white;
+    }
+
+    #home .hero-content p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+      color: #f1f1f1;
+    }
+
+    #home .hero-content .btn {
+      background: #ff4747;
+      color: white;
+      border-radius: 8px;
+      padding: 12px 24px;
+    }
+
+    #home .hero-content .btn:hover {
+      background: #e60000;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Menu fixo -->
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#sobre">Sobre</a>
+    <a href="#links">Links</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <!-- Espaço para não sobrepor conteúdo -->
+  <div class="spacer"></div>
+
+  <!-- Seção Home (Hero) -->
+  <section id="home">
+    <div class="hero-content">
+      <h2>Seja bem vindo ao meu site</h2>
+      <p>M0Z Triple Way 😜 é um projeto de internet grátis para Moçambique, tendo por agora canal e grupo no telegram.</p>
+      <a href="https://t.me/moztripleway" target="_blank" class="btn">Entrar no Telegram</a>
+    </div>
+  </section>
+
+  <!-- Seção Sobre -->
+  <section id="sobre" style="background:#ecf0f1;">
+    <h2>ℹ️ Sobre M0Z Triple Way</h2>
+    <p>M0Z Triple Way é um projeto dedicado a trazer internet grátis para todos os moçambicanos. Sem cobranças, sem taxas, sem discriminação.</p>
+  </section>
+
+  <!-- Seção Links -->
+  <section id="links">
+    <h2>🔗 Meus Links</h2>
+    <a href="https://t.me/moztripleway" target="_blank" class="btn btn-red">
+      <i class="fa-brands fa-telegram"></i> Telegram
+    </a>
+    <a href="https://t.me/Yannickandre" target="_blank" class="btn btn-green">
+      <i class="fa-brands fa-telegram"></i> Apoio Telegram
+    </a>
+    <a href="https://wa.me/+258875868157" target="_blank" class="btn btn-blue">
+      <i class="fa-brands fa-whatsapp"></i> Apoio WhatsApp
+    </a>
+    <a href="https://wa.me/+258875868157" target="_blank" class="btn btn-yellow">
+      <i class="fa-brands fa-whatsapp"></i> Meu WhatsApp
+    </a>
+  </section>
+
+  <i>
+    <h2>Por agora não temos grupo no WhatsApp</h2>
+    <ul>
+      <li>Todos os links de WhatsApp só te levam ao meu WhatsApp, a criação de um grupo no WhatsApp vai depender do desempenho no canal do telegram, se não tens telegram eu lamento muito 😢😢</li>
+    </ul>
+  </i>
+
+  <!-- Seção Contato -->
+  <section id="contato" style="background:#ecf0f1;">
+    <h2>📩 Contato</h2>
+    <p>Você também pode me contatar pelo e-mail: <strong>yannickarmando2509@gmail.com</strong></p>
+  </section>
+
+  <!-- Rodapé -->
+  <footer>
+    <p>&copy; 2025 - M0Z Triple Way 😜 Criado por Yannick André </p>
+  </footer>
+
+</body>
+</html>
