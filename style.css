@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+/* Títulos */
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+/* 🔹 Menu fixo */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #008000;
+    padding: 15px 0;
+    text-align: center;
+    z-index: 1000;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+    
+nav a:hover {
+    color: #f1c40f;
+}
+
+/* 🔹 Espaço para não esconder conteúdo atrás do menu */
+.spacer {
+    height: 70px;
+}
+
+/* 🔹 Seções */
+section {
+    padding: 65px 25px;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 2em;
+    color: #2c3e50;
+}
+
+section p {
+    font-size: 1.2em;
+    color: #555;
+    max-width: 750px;
+    margin: auto;
+}
+
+/* 🔹 Botões */
+.btn {
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-decoration: none;   /* ✅ removido o overline */
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-orangered {background: #FF4500; color: white; }
+.btn-orangered {background: #FF4500; color: white; }
+.btn-greenyellow {background: #ADFF2F; color: black; }
+.btn-greenyellow {background: greenyellow; color: black; }
+
+#home {
+    position: relative;
+    background: url("a6e26dbc3f337927faf92cae82be55fe.jpg") no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+#home::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 1;
+}
+
+/* Conteúdo central */
+#home .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 700px;
+}
+
+#home .hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    color: white;
+}
+
+#home .hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #f1f1f1;
+}
+
+#home .hero-content .btn {
+    background: #ff4747;
+    color: white;
+    border-radius: 8px;
+    padding: 12px 24px;
+}
+
+#home .hero-content .btn:hover {
+    background: #e60000;
+}
+
+#arquivos {
+    position: relative;
+    background: url("HD-wallpaper-ultra-nstinct-vegeto-goku-vegeta.jpg") no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+#arquivos::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 1;
+}
+
+/* Conteúdo central */
+#arquivos .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 700px;
+}
+
+#arquivos .hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    color: white;
+}
+
+#arquivos .hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #f1f1f1;
+}
+
+#arquivos .hero-content .btn {
+    background: #ff4747;
+    color: white;
+    border-radius: 8px;
+    padding: 12px 24px;
+}
+
+#arquivos .hero-content .btn:hover {
+    background: #e60000;
+}
