@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://seu-projeto.up.railway.app/</loc>
+    <loc>https://moztripleway-production.up.railway.app/</loc>
     <lastmod>2026-02-07</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://seu-projeto.up.railway.app/arquivos-de-teste.html</loc>
+    <loc>https://moztripleway-production.up.railway.app/arquivos-de-teste.html</loc>
     <lastmod>2026-02-07</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://seu-projeto.up.railway.app/contribuicoes.html</loc>
+    <loc>https://moztripleway-production.up.railway.app/contribuicoes.html</loc>
     <lastmod>2026-02-07</lastmod>
     <priority>0.8</priority>
   </url>
