@@ -1,0 +1,108 @@
+body {
+    font-family: arial, sans-serif;
+    background: #F0F8FF;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+/* Títulos*/
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-height: 1.5;
+}
+
+/* menu */
+nav {
+    position: fixed;
+    top: o;
+    width: 100%;
+    background: #BDB76B;
+    padding: 15px 0;
+    text-align: center;
+    z-index: 100;
+}
+
+nav a {
+    color: white;
+    text-decoraction: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: o.3s;
+}
+
+nav a::hover {
+    color: #f1c40f;
+}
+
+.spacer {
+    height: 70px;
+}
+
+section {
+    padding: 65px 25px;
+    text-align: center;
+}
+
+section h3 {
+    font-size: 2em;
+    color: #000000;
+}
+
+section p {
+    font-size: 1.2em;
+    color: #708090;
+    max-width: 750px;
+    margin: auto;
+}
+
+/* Imagem de fundo e etc*/
+
+#lar {
+    position: relative;
+    background: url("InShot_20251030_191518900.jpg") center center no-repeat fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+#lar::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0,5);
+    z-index: 1;
+}
+
+#lar .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 750px;
+    magin-bottom: 40px;
+}
+
+#lar .hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 17px;
+    color: aliceblue;
+}
+
+#lar .hero-content h3 {
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: aliceblue;
+}
+
+#lar .hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #F0F8FF;
+}
