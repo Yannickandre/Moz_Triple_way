@@ -16,7 +16,7 @@ Sem cobranças, sem taxas, sem discriminação.
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> Apoio no Telegram
   </a>
 
-- <a href="https://wa.me/+258875868157" target="_blank">
+- <a href="https://wa.me/+258825393391" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20"/> Apoio no WhatsApp
   </a>
 
