@@ -26,10 +26,10 @@ Sem cobranças, sem taxas, sem discriminação.
 
 ---
 
-## 🌍 Página Online
+## 🌍 Site oficial
 
-Você pode acessar meu site pelo GitHub Pages aqui:  
-👉 [Clique aqui para abrir](https://yannickandre.github.io/Moz_Triple_way/)
+Tenho um site público e você pode acessá-lo agora :  
+👉 [Clique aqui para abrir](https://moztripleway-production.up.railway.app/)
 
 ---
 
