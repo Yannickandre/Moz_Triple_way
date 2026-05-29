@@ -28,7 +28,8 @@ Página do Facebook onde publico vídeos fotos e alguns projetos não finalizado
 
 
 - <a href="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" target="_blank"
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="25"/> Servidor do Discord</a>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="25"/> Servidor do Discord
+</a>
 Tempo atrás eu perdi minha conta WhatsApp, por isso criei este servidor no Discord, ele existe por precaução
 
 
