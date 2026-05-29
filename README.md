@@ -21,7 +21,7 @@ O primeiro canal é é onde mando tudo, sejam arquivos, ways, etc
 Recentemente tem sido difícil criar uma conta Telegram e nem todos têm acesso a uma conta. Tendo isso em conta, criei esta comunidade no WhatsApp
 
 
-- <a href="https://www.facebook.com/profile.php?id=61583079958737" target=" _blank"
+- <a href="https://www.facebook.com/profile.php?id=61583079958737" target=" _blank">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="25">Página do Facebook
 </a> 
 
