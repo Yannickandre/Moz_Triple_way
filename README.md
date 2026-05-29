@@ -22,7 +22,8 @@ Recentemente tem sido difícil criar uma conta Telegram e nem todos têm acesso 
 
 
 - <a href="https://www.facebook.com/profile.php?id=61583079958737" target=" _blank"
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="25">Página do Facebook</a> 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="25">Página do Facebook
+</a> 
 
 
 ---
