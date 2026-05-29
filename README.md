@@ -9,7 +9,7 @@ Sem cobranças, sem taxas, sem discriminação.
 ## 🔗 Meus Links
 
 - <a href="https://t.me/moztripleway" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> Canal no Telegram
+  <img src="https://cdn-icons-png.flaticon.com/128/1216/1216898.png" width="20"/> Canal no Telegram
   </a>
 O primeiro canal é é onde mando tudo, sejam arquivos, ways, etc
 
