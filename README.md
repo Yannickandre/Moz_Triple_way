@@ -27,6 +27,7 @@ Recentemente tem sido difícil criar uma conta Telegram e nem todos têm acesso 
 Página do Facebook onde publico vídeos fotos e alguns projetos não finalizados
 
 
+
 - <a href="https://discord.gg/8YvBndtVB" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="25"/> Servidor do Discord
 </a>
