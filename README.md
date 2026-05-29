@@ -9,14 +9,14 @@ Sem cobranças, sem taxas, sem discriminação.
 ## 🔗 Meus Links
 
 - <a href="https://t.me/moztripleway" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/1216/1216898.png" width="20"/> Canal no Telegram
+  <img src="https://cdn-icons-png.flaticon.com/128/1216/1216898.png" width="25"/> Canal no Telegram
   </a>
 O primeiro canal é é onde mando tudo, sejam arquivos, ways, etc
 
 
 
 - <a href="https://chat.whatsapp.com/LaAjlbB8umaFq251VplJ6R" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536445.png" width="20"/> Comunidade no WhatsApp
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536445.png" width="25"/> Comunidade no WhatsApp
   </a>
 Recentemente tem sido difícil criar uma conta Telegram e nem todos têm acesso a uma conta. Tendo isso em conta, criei esta comunidade no WhatsApp
 
