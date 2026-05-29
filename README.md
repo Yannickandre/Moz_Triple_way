@@ -42,7 +42,3 @@ Tenho um site público e você pode acessá-lo agora :
 👉 [Clique aqui para abrir](https://moztripleway-production.up.railway.app/)
 
 ---
-
-✉️ Contato: **yannickarmando2509@gmail.com**      text-align: center;
-      z-index: 1000;
-    }
